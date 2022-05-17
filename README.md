@@ -19,14 +19,14 @@ Design Pattern Used
 
 Claen-Swift (VIP architecture)
 
-> ViewController - For UI related logics
-> Interactor - For business logics and use cases implementation
-> Presenter - For ViewModel construction logics and implementation
-> Worker - For API calls
-> Router - For navigation between scenes
+> ViewController - For UI related logics \n
+> Interactor - For business logics and use cases implementation \n
+> Presenter - For ViewModel construction logics and implementation \n
+> Worker - For API calls \n
+> Router - For navigation between scenes \n
 
 Unit Test Cases
 
-XCTestcase(Unit Test) - 2
-XCUITestcase(Automation) - 1
+XCTestcase(Unit Test) - 2 \n
+XCUITestcase(Automation) - 1 \n
 
