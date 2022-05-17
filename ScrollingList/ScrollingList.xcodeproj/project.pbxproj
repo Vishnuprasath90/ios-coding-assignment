@@ -29,7 +29,7 @@
 		27E597542833C9D000811882 /* YelpMockAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E597532833C9D000811882 /* YelpMockAPI.swift */; };
 		27E5975C2833CB1100811882 /* ScrollingListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E5975B2833CB1100811882 /* ScrollingListUITests.swift */; };
 		27E5975E2833CB1100811882 /* ScrollingListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E5975D2833CB1100811882 /* ScrollingListUITestsLaunchTests.swift */; };
-		27E597652833CBF800811882 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 27E597642833CBF800811882 /* Readme.md */; };
+		27E597652833CBF800811882 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 27E597642833CBF800811882 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,7 +73,7 @@
 		27E597592833CB1100811882 /* ScrollingListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrollingListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		27E5975B2833CB1100811882 /* ScrollingListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollingListUITests.swift; sourceTree = "<group>"; };
 		27E5975D2833CB1100811882 /* ScrollingListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollingListUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		27E597642833CBF800811882 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
+		27E597642833CBF800811882 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,7 +107,7 @@
 		27E597062833889200811882 = {
 			isa = PBXGroup;
 			children = (
-				27E597642833CBF800811882 /* Readme.md */,
+				27E597642833CBF800811882 /* README.md */,
 				27E597112833889200811882 /* ScrollingList */,
 				27E5974B2833C94F00811882 /* ScrollingListTests */,
 				27E5975A2833CB1100811882 /* ScrollingListUITests */,
@@ -330,7 +330,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27E597652833CBF800811882 /* Readme.md in Resources */,
+				27E597652833CBF800811882 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
